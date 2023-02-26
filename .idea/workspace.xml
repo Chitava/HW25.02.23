@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9961f2f6-a090-4b97-b38d-50524ffdf916" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Personal/personal/views/Validation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/personal/views/Validation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Personal/personal/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Personal/personal/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Personal/personal/controllers/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Personal/personal/controllers/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Personal/personal/model/FileOperationImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Personal/personal/model/FileOperationImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Personal/personal/model/Repository.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Personal/personal/model/Repository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Personal/personal/model/RepositoryFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Personal/personal/model/RepositoryFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Personal/personal/views/ViewUser$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Personal/personal/views/ViewUser$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Personal/personal/views/ViewUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Personal/personal/views/ViewUser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/personal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/personal/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/controllers/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/personal/model/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/model/Repository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/personal/model/RepositoryFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/model/RepositoryFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/personal/views/ViewUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/views/ViewUser.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,18 +23,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Личное/Javaschool/Java/Введение в ООП/Семина 25.02.23/Seminar",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "File.Encoding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Личное/Javaschool/Java/Введение в ООП/Семина 25.02.23/Seminar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

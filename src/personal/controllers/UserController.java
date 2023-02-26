@@ -52,17 +52,13 @@ public class UserController {
     public void deleteUser(String userId) throws Exception {
         List<User> users = repository.getAllUsers();
         for (int i = 0; i < users.size(); i++) {
-            if (users.get(i).getId().equals(userId)){
-
+            if (users.get(i).getId().equals(userId)) {
                 users.remove(users.get(i));
-
-            }else System.out.println("No");
-
+            }
+            System.out.println(users);
+            repository.saveUsers(users);
         }
-        System.out.println(users);
-        repository.saveUsers(users);
-        }
-
+    }
 }
 
 
